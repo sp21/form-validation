@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/form-validation/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/form-validation/static/js/main.170f833a.chunk.js",
+    "main.js.map": "/form-validation/static/js/main.170f833a.chunk.js.map",
+    "runtime-main.js": "/form-validation/static/js/runtime-main.e76c0041.js",
+    "runtime-main.js.map": "/form-validation/static/js/runtime-main.e76c0041.js.map",
+    "static/css/2.150d169a.chunk.css": "/form-validation/static/css/2.150d169a.chunk.css",
+    "static/js/2.732f10a7.chunk.js": "/form-validation/static/js/2.732f10a7.chunk.js",
+    "static/js/2.732f10a7.chunk.js.map": "/form-validation/static/js/2.732f10a7.chunk.js.map",
+    "static/js/3.b4f11bb4.chunk.js": "/form-validation/static/js/3.b4f11bb4.chunk.js",
+    "static/js/3.b4f11bb4.chunk.js.map": "/form-validation/static/js/3.b4f11bb4.chunk.js.map",
+    "index.html": "/form-validation/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/form-validation/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/form-validation/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.732f10a7.chunk.js.LICENSE.txt": "/form-validation/static/js/2.732f10a7.chunk.js.LICENSE.txt",
+    "static/media/image1.79d9af15.jpg": "/form-validation/static/media/image1.79d9af15.jpg",
+    "static/media/image2.6a19c5a9.jpg": "/form-validation/static/media/image2.6a19c5a9.jpg",
+    "static/media/image3.093a5030.jpg": "/form-validation/static/media/image3.093a5030.jpg",
+    "static/media/image4.ef688660.jpg": "/form-validation/static/media/image4.ef688660.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e76c0041.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.732f10a7.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.170f833a.chunk.js"
+  ]
+}
